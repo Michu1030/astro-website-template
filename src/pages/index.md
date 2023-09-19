@@ -12,3 +12,5 @@ To jest strona napisana w markdownie (pliku z rozszerzeniem .md).
 
 ## A jeśli chcesz wejść głębiej,
 ...możesz zajrzeć do plików Astro.
+
+😁👍
