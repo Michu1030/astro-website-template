@@ -15,7 +15,6 @@ To jest strona napisana w markdownie (pliku z rozszerzeniem .md).
 
 😁👍
 
-quu..__
  $$$b  `---.__
   "$$b        `--.                          ___.---uuudP
    `$$b           `.__.------.__     __.---'      $$$$"              .
